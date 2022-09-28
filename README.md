@@ -30,10 +30,10 @@
 </div>
   
   
-- 🔭 Atualmente eu trabalho com JS e .net
-- 🌱 Atualmente estou estudando sobre Blockchain
-- 🎓 Mestrado em [Redes Neurais Evolutivas](https://cos.ufrj.br/uploadfile/publicacao/2932.pdf)  
+- 🔭 Currently working with Javascript solutions
+- 🌱 Studying WASM solutions and ruby
+- 🎓 Master's degree in [Redes Neurais Evolutivas](https://cos.ufrj.br/uploadfile/publicacao/2932.pdf)  
+- 😄 Pronouns: he/him
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
